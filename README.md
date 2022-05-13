@@ -10,7 +10,7 @@ Then go to [chrome://extensions/](chrome://extensions/), and ensure "Developer m
 
 ![Chromium's Extension page with developer mode enabled](https://user-images.githubusercontent.com/45378255/168331520-9431ea70-673f-42c6-85ec-9ca09da95ea5.png)
 
-Finlay click "Load unpacked extension", and select the folder in witch you unpacked the ZIP file.
+Finaly click "Load unpacked extension", and select the folder in which you unpacked the ZIP file.
 
 ## Using
 
